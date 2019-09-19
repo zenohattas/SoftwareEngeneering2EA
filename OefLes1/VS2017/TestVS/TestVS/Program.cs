@@ -12,6 +12,7 @@ namespace TestVS
         {
             Console.WriteLine("Test");
             Console.WriteLine("It seems to work >:D");
+            Console.WriteLine("Like those damn Mexicans");
             Console.ReadLine();
         }
     }
