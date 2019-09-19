@@ -6,7 +6,7 @@ namespace OefLes1
     {
         static void Main(string[] args)
         {
-            ffezf
+            
         }
     }
 }
