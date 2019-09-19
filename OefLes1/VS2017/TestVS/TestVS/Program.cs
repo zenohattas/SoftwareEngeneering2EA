@@ -11,6 +11,7 @@ namespace TestVS
         static void Main(string[] args)
         {
             Console.WriteLine("Test");
+            Console.WriteLine("It seems to work >:D");
             Console.ReadLine();
         }
     }
