@@ -6,7 +6,12 @@ namespace OefLes1
     {
         static void Main(string[] args)
         {
+<<<<<<< Updated upstream
             
+=======
+            ffezf
+                hdhdh
+>>>>>>> Stashed changes
         }
     }
 }
