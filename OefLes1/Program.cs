@@ -9,4 +9,11 @@ namespace OefLes1
             
         }
     }
+    abstract class Philosophy
+    {
+        public String IThink()
+        {
+            return "Therefore I am.";
+        }
+    }
 }
