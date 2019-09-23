@@ -1,1 +1,6 @@
-test bewerking...
+<<<<<<< HEAD
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+test bewerking.
+=======
+test bewerking..
+>>>>>>> master
