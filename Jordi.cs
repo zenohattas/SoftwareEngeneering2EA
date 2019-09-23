@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -12,6 +12,7 @@ namespace SE_Labo1ConsoleAppGithub
         {
             get { return Jordle; }
             set { Jordle = value; }
+            //read if you is smart
         }
 
     }
