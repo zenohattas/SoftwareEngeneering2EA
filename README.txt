@@ -1,3 +1,4 @@
+Give up on Shania she's a big meany who corrects me and should be thrown into a volcano
 "Never Gonna Give You Up"
 
 We're no strangers to love
