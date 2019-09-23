@@ -19,4 +19,11 @@ namespace OefLes1
             abstract public int Y { get; set; }
         }
     }
+    abstract class Philosophy
+    {
+        public String IThink()
+        {
+            return "Therefore I am.";
+        }
+    }
 }
