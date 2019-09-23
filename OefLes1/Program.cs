@@ -8,5 +8,10 @@ namespace OefLes1
         {
             
         }
+
+        class Koen
+        {
+            public int PropOfKoen { get; set; }
+        }
     }
 }
