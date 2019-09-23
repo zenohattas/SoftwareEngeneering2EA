@@ -13,6 +13,7 @@ namespace SE_Labo1ConsoleAppGithub
             get { return Jordle; }
             set { Jordle = value; }
             //read if you is smart
+            ///hhhhhhhhhh
         }
 
     }
