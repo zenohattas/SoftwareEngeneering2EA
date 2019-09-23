@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace OefLes1
 {
@@ -23,7 +23,7 @@ namespace OefLes1
     {
         public String IThink()
         {
-            return "Therefore I am!";
+            return "Therefore I am.";
         }
     }
 }
