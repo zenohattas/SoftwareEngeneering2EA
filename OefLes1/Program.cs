@@ -6,7 +6,7 @@ namespace OefLes1
     {
         static void Main(string[] args)
         {
-            int testnumber = 2000;
+            int testnumber = 2001;
             //somone change this badboi
         }
 
