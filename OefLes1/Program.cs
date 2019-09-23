@@ -8,5 +8,10 @@ namespace OefLes1
         {
             
         }
+        abstract class Position
+        {
+            abstract public int X { get; set; }
+            abstract public int Y { get; set; }
+        }
     }
 }
