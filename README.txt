@@ -50,7 +50,7 @@ Never gonna give, never gonna give
  
 We've known each other for so long 
 Your heart's been aching, but 
-You're too shy to say it 
+You're too shy to 69 
 Inside, we both know what's been going on 
 We know the game and we're gonna play it 
  
