@@ -1,4 +1,5 @@
 Give up on Shania she's a big meany who corrects me and should be thrown into a volcano
+SACRIFICE!!! SACRIFICE!!! \o/
 "Never Gonna Give You Up"
 
 
