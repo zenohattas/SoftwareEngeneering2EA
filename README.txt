@@ -1,7 +1,7 @@
 Give up on Shania she's a big meany who corrects me and should be thrown into a volcano
 SACRIFICE!!! SACRIFICE!!! \o/
 SACRIFICE!!! SACRIFICE!!! \o/ SACRIFICE!!! SACRIFICE!!! \o/ SACRIFICE!!! SACRIFICE!!! \o/SACRIFICE!!! SACRIFICE!!! \o/ SACRIFICE!!! SACRIFICE!!! \o/
-
+It's as if Bart can see inside my heart <3 <3 <3
 
 "Never Gonna Give You Up"
 
