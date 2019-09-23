@@ -6,7 +6,8 @@ namespace OefLes1
     {
         static void Main(string[] args)
         {
-            
+            int testnumber = 2000;
+            //somone change this badboi
         }
 
         class Koen
