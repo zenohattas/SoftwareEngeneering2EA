@@ -8,5 +8,15 @@ namespace OefLes1
         {
             
         }
+
+        class Koen
+        {
+            public int PropOfKoen { get; set; }
+        }
+        abstract class Position
+        {
+            abstract public int X { get; set; }
+            abstract public int Y { get; set; }
+        }
     }
 }
