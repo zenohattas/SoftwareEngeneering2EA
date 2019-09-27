@@ -12,6 +12,7 @@ namespace OefLabo2
                 Menu();
             llama();
             
+           Carl();
             }
         }
         static void Title()
@@ -59,6 +60,14 @@ namespace OefLabo2
         static void llama()
         {
             Console.WriteLine("I rather have a Lavish Princess Llama than Carl!");
+            Console.ReadLine();
+        }
+
+        static void Carl()
+        {
+            Console.WriteLine("Paul: Carl, there is a dead human in our house.");
+            Console.WriteLine("Carl: Oh,hey,how did it get there?");
+            Console.WriteLine("Paul:Caaarrrrllll,what did you do ;^;");
             Console.ReadLine();
         }
     }
