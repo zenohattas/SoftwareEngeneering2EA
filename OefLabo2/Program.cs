@@ -10,6 +10,7 @@ namespace OefLabo2
             while (true)
             {
                 Menu();
+                Console.ReadKey();
             }
         }
         static void Title()
