@@ -6,6 +6,7 @@ namespace OefLabo2
     {
         static void Main(string[] args)
         {
+            Draw.draw(30, 20, '*');
             while (true)
             {
                 Menu();
