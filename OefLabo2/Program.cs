@@ -6,7 +6,13 @@ namespace OefLabo2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hi o/");
+            llama();
+            
+        }
+        static void llama()
+        {
+            Console.WriteLine("I rather have a Lavish Princess Llama than Carl!");
+            Console.ReadLine();
         }
     }
 }
