@@ -6,7 +6,7 @@ namespace OefLabo2
     {
         static void Main(string[] args)
         {
-            Draw.draw(30, 20, '*');
+            //Draw.draw(30, 20, '*');
             while (true)
             {
                 Menu();
@@ -38,6 +38,10 @@ namespace OefLabo2
             Console.WriteLine("2. Show me more Qoutes");
             Console.WriteLine("3. Boop!");
             Console.WriteLine("Q. Quit");
+            for (int i = 0; i < Window; i++)
+            {
+
+            }
             string inp = Console.ReadLine().ToLower();
             switch (inp)
             {
