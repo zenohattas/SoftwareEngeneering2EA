@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace OefLabo2
 {
@@ -6,7 +6,7 @@ namespace OefLabo2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Woraldo!");
         }
     }
 }
