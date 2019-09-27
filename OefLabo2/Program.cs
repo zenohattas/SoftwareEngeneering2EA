@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace OefLabo2
 {
@@ -69,6 +69,11 @@ namespace OefLabo2
             Console.WriteLine("Carl: Oh,hey,how did it get there?");
             Console.WriteLine("Paul:Caaarrrrllll,what did you do ;^;");
             Console.ReadLine();
+        }
+
+        static void boop()
+        {
+            Console.WriteLine("boop!");
         }
     }
 }
