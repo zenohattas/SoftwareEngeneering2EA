@@ -6,8 +6,10 @@ namespace OefLabo2
     {
         static void Main(string[] args)
         {
-            Title();
-            Console.ReadKey();
+            while (true)
+            {
+                Menu();
+            }
         }
         static void Title()
         {
@@ -32,17 +34,24 @@ namespace OefLabo2
             Title();
             Console.WriteLine("1. Show me a nice Quote: ");
             Console.WriteLine("");
-            Console.WriteLine("");
-            string inp = Console.ReadLine();
+            Console.WriteLine("Q. Quit");
+            string inp = Console.ReadLine().ToLower();
             switch (inp)
             {
                 case "1":
+                    //shania
                     break;
                 case "2":
+                    //Jordi
                     break;
                 case "3":
+                    //Koen
+                    break;
+                case "q":
+                    System.Environment.Exit(0);
                     break;
             }
         }
+
     }
 }
