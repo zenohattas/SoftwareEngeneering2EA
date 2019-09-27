@@ -10,6 +10,8 @@ namespace OefLabo2
             while (true)
             {
                 Menu();
+            llama();
+            
             }
         }
         static void Title()
@@ -54,5 +56,10 @@ namespace OefLabo2
             }
         }
 
+        static void llama()
+        {
+            Console.WriteLine("I rather have a Lavish Princess Llama than Carl!");
+            Console.ReadLine();
+        }
     }
 }
