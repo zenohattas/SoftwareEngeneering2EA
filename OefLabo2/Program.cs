@@ -10,9 +10,6 @@ namespace OefLabo2
             while (true)
             {
                 Menu();
-            llama();
-            
-           Carl();
             }
         }
         static void Title()
@@ -36,20 +33,24 @@ namespace OefLabo2
         static void Menu()
         {
             Title();
-            Console.WriteLine("1. Show me a nice Quote: ");
-            Console.WriteLine("");
+            Console.WriteLine("1. Show me a nice Quote");
+            Console.WriteLine("2. Show me more Qoutes");
+            Console.WriteLine("3. Boop!");
             Console.WriteLine("Q. Quit");
             string inp = Console.ReadLine().ToLower();
             switch (inp)
             {
                 case "1":
                     //shania
+                    llama();
                     break;
                 case "2":
                     //Jordi
+                    Carl();
                     break;
                 case "3":
                     //Koen
+                    boop();
                     break;
                 case "q":
                     System.Environment.Exit(0);
