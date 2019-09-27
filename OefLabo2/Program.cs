@@ -11,6 +11,7 @@ namespace OefLabo2
         }
         static void Title()
         {
+            Console.Clear();
             Console.WriteLine(@"
  _______  _______  _______  _______  __    _  ___   __    _  _______    ___      _______  _______  _______    _______ 
 |       ||       ||       ||       ||  |  | ||   | |  |  | ||       |  |   |    |   _   ||  _    ||       |  |       |
@@ -25,6 +26,23 @@ namespace OefLabo2
                 Console.Write("#");
             }
             Console.WriteLine();
+        }
+        static void Menu()
+        {
+            Title();
+            Console.WriteLine("1. Show me a nice Quote: ");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            string inp = Console.ReadLine();
+            switch (inp)
+            {
+                case "1":
+                    break;
+                case "2":
+                    break;
+                case "3":
+                    break;
+            }
         }
     }
 }
