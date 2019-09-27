@@ -6,7 +6,12 @@ namespace OefLabo2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("<3 <3 <3!");
+            
+        }
+
+        static void boop()
+        {
+            Console.WriteLine("boop!");
         }
     }
 }
