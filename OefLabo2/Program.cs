@@ -6,7 +6,7 @@ namespace OefLabo2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Woraldo!");
+            Console.WriteLine("<3 <3 <3!");
         }
     }
 }
